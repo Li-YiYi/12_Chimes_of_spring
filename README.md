@@ -1,4 +1,5 @@
 # 12_Chimes_of_spring
+[中文readme.md](https://github.com/Li-YiYi/12_Chimes_of_spring/readme_zhcn.md)
 ### What is this?
 This is 12 Chimes of Spring
 ### WTF?
