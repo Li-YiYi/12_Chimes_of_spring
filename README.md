@@ -1,4 +1,4 @@
-# 12_Chimes_of_spring
+# 12 Chimes of spring
 [中文readme.md](https://github.com/Li-YiYi/12_Chimes_of_spring/blob/master/readme_zhcn.md)
 ### What is this?
 This is 12 Chimes of Spring
@@ -10,5 +10,5 @@ The engine will ~~boom~~ for 12 times.
 So it is called *12 Chimes of Spring*.
 ### still can't understand?
 It doesn't matter.You just need know that
-this is a script which can make your device ~~boom~~ for 12 times.
+this is a collection of scripts which can make your device ~~boom~~ for 12 times.
 just for fun!
